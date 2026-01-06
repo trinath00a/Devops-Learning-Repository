@@ -1,0 +1,15 @@
+git add filename
+git commit -m "pass the comment"
+git push
+
+git pull
+git clone (desired repositroy url)
+git status
+git diff
+git log
+
+git reset/restore filename
+git branch newbranchname
+git switch branchname
+git merge (need to go back to master branch then give the git merge command alng with branchname)
+

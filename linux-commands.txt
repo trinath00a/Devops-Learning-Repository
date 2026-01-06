@@ -1,0 +1,20 @@
+
+
+pwd
+ls
+ls -ltr
+mkdir
+touch
+vi -- inster , ESC , :wqsaving , :q!-quit without saving
+cat
+grep-searching/find a word inside log/file
+Hostname
+mv-rename
+mv-move the file
+mv path
+rm-remove file
+rmdir-remove directory
+cp-copy -- copy cp path
+head-execute first 10 line
+tail-last 10 lines
+tail -f failname
